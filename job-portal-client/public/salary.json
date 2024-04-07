@@ -1,28 +1,28 @@
 [
     {
         "id": 1,
-        "title": "Warehouse Associate",
-        "salary": "Average Salary $34,331 per year",
+        "title": "Cleaner",
+        "salary": "Average Salary $3,433 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 2,
-        "title": "Backend Developer",
-        "salary": "Average Salary $46,052 per year",
+        "title": "Cook",
+        "salary": "Average Salary $16,052 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 3,
         "title": "Front Desk Agent",
-        "salary": "Average Salary $43,402 per year",
+        "salary": "Average Salary $13,402 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 4,
-        "title": "Crew Member",
+        "title": "Hair Dressing",
         "salary": "Average Salary $44,781 per year",
         "status": "Job Openings",
         "skills": "Skills"
@@ -36,29 +36,29 @@
     },
     {
         "id": 6,
-        "title": "App Developer",
-        "salary": "Average Salary $92,781 per year",
+        "title": "Driver",
+        "salary": "Average Salary $10,781 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 7,
-        "title": "UI/UX Designer",
-        "salary": "Average Salary $108,781 per year",
+        "title": "Poster Designer",
+        "salary": "Average Salary $8,781 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 8,
-        "title": "Web Developer",
-        "salary": "Average Salary $88,601 per year",
+        "title": "Electrician",
+        "salary": "Average Salary $8,601 per year",
         "status": "Job Openings",
         "skills": "Skills"
     },
     {
         "id": 9,
-        "title": "Full Stack Developer",
-        "salary": "Average Salary $88,601 per year",
+        "title": "Mansonary",
+        "salary": "Average Salary $4,601 per year",
         "status": "Job Openings",
         "skills": "Skills"
     }
